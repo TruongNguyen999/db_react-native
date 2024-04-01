@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "db_react-native",
   "main": "index.js",
+  "homepage": "https://github.com/TruongNguyen999/db_react-native",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
