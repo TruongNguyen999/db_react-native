@@ -4,5 +4,11 @@
             "id": 1,
             "token": "b8b6d034-321f-49ee-9b16-01d05ccd8896"
         }
+    ],
+    "user": [
+        {
+            "userName": "truong",
+            "passWord": "truong@123"
+        }
     ]
 }
