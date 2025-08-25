@@ -7,8 +7,12 @@
     ],
     "user": [
         {
-            "userName": "truong",
-            "passWord": "truong@123"
+            "userName": "demo",
+            "passWord": "demo@123"
+        },
+        {
+            "userName": "demo1",
+            "passWord": "demo1@123"
         }
     ]
 }
