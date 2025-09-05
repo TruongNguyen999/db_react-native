@@ -1,18 +1,32 @@
 {
-    "ping": [
-        {
-            "id": 1,
-            "token": "b8b6d034-321f-49ee-9b16-01d05ccd8896"
-        }
-    ],
-    "user": [
-        {
-            "userName": "demo",
-            "passWord": "demo@123"
-        },
-        {
-            "userName": "demo1",
-            "passWord": "demo1@123"
-        }
-    ]
+  "ping": [
+    {
+      "id": 1,
+      "token": "b8b6d034-321f-49ee-9b16-01d05ccd8896"
+    }
+  ],
+  "user": [
+    {
+      "userName": "demo",
+      "passWord": "demo@123"
+    },
+    {
+      "userName": "demo1",
+      "passWord": "demo1@123"
+    }
+  ],
+  "userInfo": {
+    "name": "Nguyen Van A",
+    "age": 20,
+    "address": "Ha Noi",
+    "avartar": "http://placeimg.com/640/480/any",
+    "email": "",
+    "phone": "0123456789",
+    "permission": {
+      "isAdmin": true,
+      "isEdit": false,
+      "isView": false,
+      "isUser": false
+    }
+  }
 }
